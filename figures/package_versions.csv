@@ -1,0 +1,8 @@
+Package,Version
+Python,3.12.13
+NumPy,2.4.6
+pandas,3.0.5
+matplotlib,3.11.1
+scikit-learn,1.9.0
+XGBoost,3.4.0
+SHAP,0.52.0

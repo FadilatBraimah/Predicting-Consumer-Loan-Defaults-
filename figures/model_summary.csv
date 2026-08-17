@@ -1,0 +1,12 @@
+Setting,Value
+Selected model,XGBoost
+Primary selection metric,Mean cross-validation ROC-AUC
+Cross-validation folds,5
+Random state,42
+Standard threshold,0.5
+F1-based threshold,0.6400000000000001
+Training default rate,0.0807
+Test default rate,0.0807
+SHAP sample size,1000
+Test ROC-AUC,0.7562
+Test average precision,0.2465
