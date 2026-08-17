@@ -1,4 +1,4 @@
-# Predicting Consumer Loan Defaults:A Comparative Analysis of Classification Models Using Home Credit Lending Data
+# Predicting Consumer Loan Defaults: A Comparative Analysis of Classification Models Using Home Credit Lending Data
 
 The project compares three classification models on consumer loan application data and uses SHAP to explain the predictions of the best one. This is a research prototype
 
